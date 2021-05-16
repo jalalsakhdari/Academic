@@ -1,5 +1,4 @@
 # The CCLab team have prepared a supplementary material related to the paper entitled: “Edge Computing: A Systematic Mapping Study”.  
-To access the zip folder of the supplementary material (SuppFile folder), please contact us with your name, official email, and your specific request. 
 The SuppFile folder has the following contents
 #	Document Name (Excel/Word)	Table #	Comment
 1)	E1	
