@@ -51,3 +51,4 @@ The SuppFile folder has the following contents
       F1	Research Tree
       T11	Search Spaces Statistics
       T12	Research Questions
+8) An appendix file (Appendix_A)
