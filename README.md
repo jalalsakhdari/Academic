@@ -1,4 +1,6 @@
+Dear researcher, 
 # The CCLab team have prepared a supplementary material related to the paper entitled: “Edge Computing: A Systematic Mapping Study”.  
+The link address of our SMS is https://doi.org/10.48550/arXiv.2102.02720 with the title of "Edge Computing: A Systematic Mapping Study". The email address is here to help you with any question: jalalsakhdari@gmail.com, Regards.
 The SuppFile folder has the following contents
 #	Document Name (Excel/Word)	Table #	Comment
 1)	E1	
